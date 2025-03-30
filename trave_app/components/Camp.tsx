@@ -74,7 +74,7 @@ const Camp = () => {
             Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure.
           </p>
           <Image 
-            src="/qoute.svg"
+            src="/quote.svg"
             alt="camp-2"
             width={186}
             height={219}
